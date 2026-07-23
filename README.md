@@ -20,7 +20,6 @@
   [T] TWITTER  :: https://twitter.com/YOUR_TWITTER
   [L] LINKEDIN :: https://linkedin.com/in/YOUR_LINKEDIN
   [W] WEBSITE  :: https://arnel-a-roy.vercel.app
-  [E] EMAIL    :: YOUR_EMAIL
 > _
 ```
 
