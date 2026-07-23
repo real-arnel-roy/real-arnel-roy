@@ -3,7 +3,6 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=38&pause=400&color=33FF33&center=true&vCenter=true&width=700&lines=C%3A%5C%3E+BOOT+SEQUENCE+COMPLETE;C%3A%5C%3E+LOADING+Arnel Roy...;C%3A%5C%3E+ROLE%3A+Python Developer;C%3A%5C%3E+STATUS%3A+ONLINE+✓;C%3A%5C%3E+READY_" alt="Retro Boot"/>
 </div>
 
 ## ⌨️ About Me
